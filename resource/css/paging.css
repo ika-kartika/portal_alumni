@@ -1,0 +1,48 @@
+/* CSS Document */
+/*body {*/
+	/*font-family:Arial, 'Helvetica', sans-serif;*/
+	/*color:#000;*/
+	/*font-size:15px;*/
+/*}*/
+a {
+color:#2276BB;
+text-decoration:none;
+}
+* {
+	margin:0px;
+	padding:0px
+}
+ol.row {
+	list-style:none
+}
+ol.row li {
+	position:relative;
+	border-bottom:1px solid #EEEEEE;
+	padding:8px;
+}
+ol.row li:hover {
+	background-color:#F7F7F7;
+}
+ol.row li:first-child {
+}
+/*#container {*/
+	/*margin-left:60px;*/
+	/*width:580px*/
+/*}*/
+
+ /*img {*/
+/*border : none ;*/
+/*}*/
+#facebook_style  {
+border:1px solid #D8DFEA;
+padding:10px 15px;
+background-color:#EDEFF4;
+}
+#facebook_style a {
+color:#3B5998;
+cursor:pointer;
+text-decoration:none;
+font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+font-size:11px;
+text-align:left;
+}

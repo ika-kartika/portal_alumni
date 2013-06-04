@@ -1,0 +1,10 @@
+@import "navbar.css";
+@import "font.css";
+@import "panel.css";
+@import "careousel.css";
+/*@import "Password_Strength.css";*/
+
+body {
+    padding-top: 85px;
+    padding-bottom: 40px;
+}
